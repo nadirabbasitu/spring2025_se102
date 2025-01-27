@@ -94,8 +94,8 @@ scheduleData:
   - name: Tuesday
     events:
       - name: Lab
-        start: 2:30 PM
-        end: 5:30 PM
+        start: 8:00 AM
+        end: 11:00 AM
         location: Level 6 Computer Lab
       - name: Nadir Appointment Slots
         start: 3:00 PM
