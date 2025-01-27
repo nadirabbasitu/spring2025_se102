@@ -84,36 +84,41 @@ scheduleData:
     - '5:00 PM'
     - '5:30 PM'
   schedule:
-    - name: Monday
-      events:
+  - name: Monday
+    events:
       - name: Lecture
-          start: 8:00 AM
-          end: 9:30 AM
-          location: Level 6 LT4
-    - name: Tuesday
-      events:
-        - name: Lab
-          start: 2:30 PM
-          end: 5:30 PM
-          location: Level 6 Computer Lab
-        - name: Nadir Appointment Slots
-          start: 3:00 PM
-          end: 4:00 PM
-          location: Faculty Office Level 4
-    - name: Wednesday
-      events:
-        - name: Lecture
-          start: 9:30 AM
-          end: 11:00 AM
-          location: Level 6 LT5
-        - name: Nadir Appointment Slots
-          start: 4:30 PM
-          end: 5:30 PM
-          location: Faculty Office Level 4
-    - name: Thursday
-      events:
-    - name: Friday
-      events:
+        start: 8:00 AM
+        end: 9:30 AM
+        location: Level 6 LT4
+
+  - name: Tuesday
+    events:
+      - name: Lab
+        start: 2:30 PM
+        end: 5:30 PM
+        location: Level 6 Computer Lab
+      - name: Nadir Appointment Slots
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Faculty Office Level 4
+
+  - name: Wednesday
+    events:
+      - name: Lecture
+        start: 9:30 AM
+        end: 11:00 AM
+        location: Level 6 LT5
+      - name: Nadir Appointment Slots
+        start: 4:30 PM
+        end: 5:30 PM
+        location: Faculty Office Level 4
+
+  - name: Thursday
+    events: []  # Explicitly define an empty list for events
+
+  - name: Friday
+    events: []  # Explicitly define an empty list for events
+
 
 
 
