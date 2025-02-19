@@ -105,12 +105,12 @@ scheduleData:
   - name: Wednesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 11:00 AM
+        start: 8:00 AM
+        end: 9:30 AM
         location: Level 6 LT5
       - name: Nadir Appointment Slots
-        start: 4:30 PM
-        end: 5:30 PM
+        start: 9:30 AM
+        end: 11:00 AM
         location: Faculty Office Level 4
 
   - name: Thursday
