@@ -110,7 +110,7 @@ scheduleData:
         location: Level 6 LT5
       - name: Nadir Appointment Slots
         start: 9:30 AM
-        end: 11:00 AM
+        end: 10:30 AM
         location: Faculty Office Level 4
 
   - name: Thursday
